@@ -5,5 +5,6 @@ public class Main {
         /*
         * Пишу комментарий, сохраню в репозиторий
         * */
+        System.out.println("Hi");
     }
 }
