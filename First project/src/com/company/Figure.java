@@ -39,8 +39,7 @@ class Triangle extends Figure{
 
 /*Практика с абстрактными классами.
         Абстрактные классы = заготовки.
-        Для одного объекта много действий.*/
-        /*
+        Для одного объекта много действий.
         Triangle tr = new Triangle(3, 4, 5);
         Triangle tri = new Triangle(3, 8);
         System.out.println(tr.area());
